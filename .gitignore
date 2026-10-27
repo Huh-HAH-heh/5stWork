@@ -1,0 +1,8 @@
+@"
+.vs/
+**/.vs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+"@ | Set-Content -Encoding utf8 .gitignore
