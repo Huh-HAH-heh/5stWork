@@ -1,5 +1,8 @@
 <Solution>
-  <Project Path="pathlib+shutil/pathlib+shutil.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="6sWorck/6sWorck.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5fb03361-b9b9-4b0c-a07d-0bfd0a0beb8d">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pathlib+shutil/pathlib+shutil.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3063c7ca-94ef-4bcc-8c76-584224c15035">
     <Build Project="false" />
   </Project>
 </Solution>
