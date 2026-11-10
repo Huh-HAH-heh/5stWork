@@ -1,0 +1,19 @@
+# Python и виртуальное окружение
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Тесты и сборка
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Рабочие данные библиотеки (папка остаётся благодаря .gitkeep)
+data/*.json
+data/*.txt
+data/*.csv
+!data/.gitkeep
